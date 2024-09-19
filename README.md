@@ -18,7 +18,7 @@ Instructions provided by v0 in integrating the component for the **Training Prog
 2. Install and configure Tailwind CSS and shadcn/ui components.
 3. Replace the placeholder images with actual images from your project.
 4. Implement the actual functionality for search, filtering, and pagination.
-5. Replace the placeholder data with actual training program data from your backend or a state management solution.<br><br>
+5. Replace the placeholder data with actual training program data from your backend or a state management solution.\\
 
 - The component uses **Tailwind CSS** for styling and incorporates **shadcn/ui** components like Button, Card, Checkbox, Input, Select, and Slider for a polished look. The layout is responsive and will adjust for different screen sizes. **The Next.js components include**:
 
