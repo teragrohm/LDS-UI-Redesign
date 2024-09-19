@@ -2,7 +2,7 @@
 
 Instructions provided by v0 in integrating the component for the wireframe on a Next.js project:
 
-To use this component in a Next.js project:
+- To use this component in a Next.js project:
 
 1. Ensure you have Next.js set up with the App Router.
 2. Install and configure Tailwind CSS and shadcn/ui components.
