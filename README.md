@@ -8,7 +8,7 @@ Instructions provided by v0 in integrating the component for the **Training Prog
 2. Install and configure Tailwind CSS and shadcn/ui components.
 3. Replace placeholder images with actual images from your project.
 4. Implement the actual functionality for search, filtering, and pagination.
-5. Replace the placeholder data with real training program data from your backend or state management solution.\
+5. Replace the placeholder data with real training program data from your backend or state management solution.
 
 Instructions provided by v0 in integrating the component for the **Training Programs page UI mockup** on a Next.js project:
 
@@ -30,7 +30,7 @@ Instructions provided by v0 in integrating the component for the **Training Prog
 4. Each training program card displays a placeholder image, title, resource person, and details like start date, duration, location, and mode.
 5. Pagination controls at the bottom of the main content.
 6. A footer with the QC Government Human Resource information, social media links, and contact details.
-<br>
+
 - For the **design mockup**:
    
 1. The header now includes a background image with overlay text and the search functionality.
