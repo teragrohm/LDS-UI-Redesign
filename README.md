@@ -23,7 +23,7 @@ Instructions provided by v0 in integrating the component for the **Training Prog
 ---
 - The component uses **Tailwind CSS** for styling and incorporates **shadcn/ui** components like Button, Card, Checkbox, Input, Select, and Slider for a polished look. The layout is responsive and will adjust for different screen sizes. **The Next.js components include**:
 
-- For the **wireframe**:
+*For the wireframe*:
 
 1. A header with the title, search bar, sort dropdown, and bookmark button.
 2. A main content area divided into a sidebar with filters and a grid of training program cards.
@@ -32,7 +32,7 @@ Instructions provided by v0 in integrating the component for the **Training Prog
 5. Pagination controls at the bottom of the main content.
 6. A footer with the QC Government Human Resource information, social media links, and contact details.
 
-- For the **design mockup**:
+*For the design mockup*:
    
 1. The header now includes a background image with overlay text and the search functionality.
 2. The main content is divided into a sidebar (for filters) and a grid of training program cards.
